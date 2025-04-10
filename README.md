@@ -1,5 +1,5 @@
 🎓 College Management System
-A role-based web application built with Flask and SQLAlchemy that streamlines student, professor, and assistant interactions. 
+A role-based web application built with Flask and React that streamlines student, professor, and assistant interactions. 
 Features include subject enrollment, attendance tracking, grade management, and dynamic dashboards based on user roles. 
 Designed for efficient academic workflow management.
 
