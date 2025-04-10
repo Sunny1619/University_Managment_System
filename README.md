@@ -9,11 +9,11 @@ Runing the project is simple :
 1. Install MySQL if not already installed.
 2. Create a database named IIITK: "CREATE DATABASE IIITK;"
 3. Configure database URI:
-   Open Backend/config.py
-   Locate the line: " SQLALCHEMY_DATABASE_URI = "mysql+pymysql://root:your_password92@localhost/IIITK" "
-   Replace "your_password92" with your actual MySQL root password.
+   * Open Backend/config.py
+   * Locate the line: " SQLALCHEMY_DATABASE_URI = "mysql+pymysql://root:your_password92@localhost/IIITK" "
+   * Replace "your_password92" with your actual MySQL root password.
 4. Run the backend: "py -3 app.py"
-   This will Create all necessary tables and Insert dummy data (if not already present). It will then start the server.
+   * This will Create all necessary tables and Insert dummy data (if not already present). It will then start the server.
    
 
 ⚛️ Frontend Setup
