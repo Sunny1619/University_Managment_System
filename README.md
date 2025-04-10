@@ -24,7 +24,7 @@ Runing the project is simple :
 
 I have included some dummy data in app.py it will automatically insert them in table.
 you can login as either of this and use the system :
-  email='alice@univ.edu', password='hashed_pw1', role='student'
-  email='bob@univ.edu', password='hashed_pw2', role='professor'
-  email='carol@univ.edu', password='hashed_pw3', role='assistant'
+  * email='alice@univ.edu', password='hashed_pw1', role='student'
+  * email='bob@univ.edu', password='hashed_pw2', role='professor'
+  * email='carol@univ.edu', password='hashed_pw3', role='assistant'
   
